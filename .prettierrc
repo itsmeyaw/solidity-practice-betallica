@@ -34,7 +34,8 @@
     {
       "files": "*.ts",
       "options": {
-        "semi": false
+        "semi": false,
+        "tabWidth": 4
       }
     }
   ]
